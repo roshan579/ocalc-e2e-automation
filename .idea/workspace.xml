@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3945f2-fab4-4f33-beaa-2bbf1a33c830" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X6i6Eow1UswvE0vnUVe0D8y2EA" />
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/sikuli-core-1.2.0.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39264706" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EGSWorkspace\POCWorkspace\ocalc-e2e-automation\src\test\resources" />
+      <recent name="C:\EGSWorkspace\POCWorkspace\ocalc-e2e-automation\src\test\java\com\ek\test\framework\context" />
+      <recent name="C:\EGSWorkspace\POCWorkspace\ocalc-e2e-automation\src\test\java\com\calc\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TC01_CalculatorTest (1)">
+    <configuration name="TC01_CalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calc.test.runCukes.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.calc.test.runCukes.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.calc.test.runCukes.calculator.TC01_CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ek.test.runCukes.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ek.test.runCukes.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.ek.test.runCukes.calculator.TC01_CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TC01_CalculatorTest (1)" />
+        <item itemvalue="JUnit.TC01_CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3945f2-fab4-4f33-beaa-2bbf1a33c830" name="Default Changelist" comment="" />
+      <created>1580372767092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580372767092</updated>
+    </task>
+    <servers />
+  </component>
+</project>
